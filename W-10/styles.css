@@ -1,0 +1,16 @@
+body{
+    background-color:rgba(251, 214, 166, 0.922);
+}
+
+table,th,td{
+    border: 1px solid black;
+}
+
+td{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+    background-color : rgb(90, 182, 243);
+}
